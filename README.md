@@ -12,3 +12,6 @@ http://codekata.com/kata/kata13-counting-code-lines/
 
 Password Strength Checker Kata:
 https://github.com/xpepper/PasswordStrengthChecker
+
+NOTE: 
+Install the pyhash library on your machine before running the 5th kata. This can be done by typing "pip install pyhash" on your command prompt. 
